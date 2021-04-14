@@ -1,2 +1,3 @@
 # tämä on testi
-# testi
+# testissä kokeillaan oppimista githubissa
+# tämä on edelleen testi
